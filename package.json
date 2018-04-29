@@ -1,0 +1,27 @@
+{
+  "name": "accessibleart",
+  "version": "1.0.0",
+  "main": "aascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moskowitza/AccessibleArt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moskowitza/AccessibleArt/issues"
+  },
+  "homepage": "https://github.com/Moskowitza/AccessibleArt#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
